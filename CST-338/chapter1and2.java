@@ -72,7 +72,7 @@ import java.text.DecimalFormat; 			// Format numbers
 import java.io.FileNotFoundException; 		// A program attempts to open a file that doesn't exists
 import java.io.FileInputStream; 			// Conncetion between Java and file on disk
 
-public class chapters1and2 { 	// Class name (program)
+public class chapter1and2 { 	// Class name (program)
 
 	public static final int THIS_IS_A_CONSTANT = 44; 
 
