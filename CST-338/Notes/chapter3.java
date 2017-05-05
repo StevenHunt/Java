@@ -40,7 +40,7 @@ switch(variable) {
 
 - Boolean : For control branch and loop statements ( Page 113 && 119) 
 - Lexicographic Ordering : Alphabetic ordering of ASCII characters.  (Page 116) 
-- Precedence. (Page 126)
+- Precedence. (Page 126)text
 
 3.3: Loops
 --------------- ( Page 132 )
