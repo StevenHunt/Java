@@ -28,7 +28,7 @@ Incremenet & Decrement : ++, --
 Constant Variables : Written outside of the main method (in CAPITAL_LETTERS). 
 
 Chapter 2: 
-------------------
+------------------ 
 
 Formatting with printf:  printf("%+|-(widthOf).(digitsAfterDecimalPlace)f, variable") : (Page 61)
 	- d : int, f : floating point, e | g : floating point, s : string, c : character. 
