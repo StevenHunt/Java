@@ -1,4 +1,4 @@
-# Java Progamming I : CIS 004
+# Java Programming I : CIS 004
 
 California State University Monterey Bay 
 
