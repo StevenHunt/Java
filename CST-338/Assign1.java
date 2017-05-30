@@ -15,7 +15,7 @@ import java.util.Scanner;  // Allows use of Scanner class.
 import java.text.DecimalFormat;  // Allows use of DecimalFormat class. 
 
 
-public class Assign1 {
+public class Assign1 { 
 
 	// Static final variables: 
 	public static final int MIN_HOURS = 12;  
