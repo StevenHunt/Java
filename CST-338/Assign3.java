@@ -1,5 +1,5 @@
 /*
- * By:  Danh Huynh, Brenna Eckel, Steven Hunt, Guadalupe Alejo, Norma Sanchez
+ * Steven Hunt
  * CST338 Software Design
  * Assignment 3
  * May 16, 2017
