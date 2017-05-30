@@ -1,11 +1,7 @@
 /*
-Danh Huynh
 Steven Hunt
-Norma Sanchez
-Guadalupe Alejo
-Brenna Eckel
-
 Assignment 2: Casino
+
 Description: Create a slot machine program that prompts the user to enter an 
 integer between 1 and 100 as a bet, simulates a slot machine, and displays the 
 whether the user won or lost, and displays the amount won
